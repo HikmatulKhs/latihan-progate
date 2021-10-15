@@ -56,6 +56,11 @@
     font-size: 14px;
     line-height: 20px;
   }
+  
+  .message-wrapper h2 {
+    font-size: 12px;
+    line-height: 20px;
+  }
 
    footer {
     text-align: center;
